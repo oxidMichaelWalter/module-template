@@ -23,7 +23,7 @@
         "oxid-esales/oxideshop-ce": "7.0.x-dev"
     },
     "conflict": {
-        "oxid-esales/oxideshop-ce": "<^7.0.0-rc.2"
+        "oxid-esales/oxideshop-ce": "<7.0.0-rc.2"
     },
     "autoload": {
         "psr-4": {
